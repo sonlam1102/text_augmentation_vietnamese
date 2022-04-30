@@ -1,5 +1,5 @@
-# Simple Text augmentation using EDA techniques   
-The purpose is to generate new instances from the original texts     
+# Simple Vietnamese Text augmentation using EDA techniques   
+The purpose is to generate new instances from the original texts in Vietnamese language     
 There are four different techniques: 
 - Random Insertion (RI)    
 - Random Swap (RS)    
